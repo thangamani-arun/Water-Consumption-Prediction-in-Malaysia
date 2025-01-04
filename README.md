@@ -19,7 +19,7 @@
  - StatsModel
  - Streamlit
 
-## Evalatted ML Models
+## Evaluated ML Models
 This project is to predict water consumption in Malaysia using following ML Models
 - Linear
 - Regression
