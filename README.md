@@ -15,7 +15,7 @@
  - Matplot
  - Scikit-learn
  - pickle
- - Keras Tensforflow
+ - Keras Tensorflow
  - StatsModel
  - Streamlit
 
