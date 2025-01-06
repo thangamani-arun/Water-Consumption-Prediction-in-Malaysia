@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the saved linear regression model
-model_file = '../model/WC_LR_Model.pkl'
+model_file = 'WC_LR_Model.pkl'
 with open(model_file, 'rb') as file:
     model_lr = pickle.load(file)
 
